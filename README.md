@@ -1,8 +1,6 @@
-# ABOUT ME
-About me
 <p align="center">
   <a href="#">
-    <h1 align="center"><img src="penguin.gif" alt="Penguin gif lil bro" width="900" height="450"></h1>
+    <h1 align="center"><img src="penguin-dance.gif" alt="Penguin gif lil bro" width="100" height="100">Hello lets party<img src="penguin-dance.gif" alt="Penguin gif lil bro" width="100" height="100"></h1>
   </a>
 </p>
 <ul>
