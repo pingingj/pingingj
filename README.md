@@ -1,8 +1,9 @@
-<p align="center">
-  <a href="#">
-    <h1 align="center"><img src="penguin-dance.gif" alt="Penguin gif lil bro" width="100" height="100">Hello lets party<img src="penguin-dance.gif" alt="Penguin gif lil bro" width="100" height="100"></h1>
-  </a>
-</p>
+<h1 align="center">
+  <img src="penguin-dance.gif" alt="Penguin" width="100" height="100" align="absmiddle">
+  Welcome to my profile
+  <img src="penguin-dance.gif" alt="Penguin" width="100" height="100" align="absmiddle">
+</h1>
+
 <ul>
   <b>🎓 What I'm working on:</b><br>
   <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
