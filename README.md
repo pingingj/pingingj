@@ -2,7 +2,7 @@
 About me
 <p align="center">
   <a href="#">
-    <h1 align="center"><img src="penguin.gif" alt="Penguin gif lil bro" width="900"></h1>
+    <h1 align="center"><img src="penguin.gif" alt="Penguin gif lil bro" width="900" height="400"></h1>
   </a>
 </p>
 <ul>
