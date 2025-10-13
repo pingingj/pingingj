@@ -1,20 +1,8 @@
 # ABOUT ME
 About me
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>About me</title>
-	
-</head>
-<body>
-	
-</body>
-</html> -->
 
 <p align="center">
   <a href="#">
-    <img src="penguin.gif" alt="Penguin gif lil bro">
+    <img src="penguin.gif" alt="Penguin gif lil bro" width="100">
   </a>
 </p>
