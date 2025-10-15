@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="penguin-dance.gif" alt="Penguin" width="100" height="100" align="absmiddle">
+  <img src="200w.gif" alt="Penguin" width="100" height="100" align="absmiddle">
   Welcome to my profile
-  <img src="penguin-dance.gif" alt="Penguin" width="100" height="100" align="absmiddle">
+  <img src="200w.gif" alt="Penguin" width="100" height="100" align="absmiddle">
 </h1>
 
 <ul>
