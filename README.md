@@ -3,10 +3,14 @@
   Welcome to my profile
   <img src="200w.gif" alt="Penguin" width="100" height="100" align="absmiddle">
 </h1>
-
+<p align="center">
+  <img src="penguin.gif" alt="Penguins" width="500" height="500" align="middle">
+</p>
+<h2>About me</h2>
 <ul>
-  <b>🎓 What I'm working on:</b><br>
-  <li> 🌱 Currently an active member of the <b>Game Development Club</b>, where I'm working on a collaborative project.<br>
-  <li> 👾 <b>Game Development </b> with <b>Godot</b> – bringing ideas to life through games.<br>
-  <li> 🚀 <b>C++ Modules</b> – learning Object-Oriented Programming and modern C++ features through intensive projects.<br><br>
+<p align="middle">
+  Hellooo my name is Daniel, i'm currently studying software development at 42 Lisbon. :)<br>
+  I enjoy building projects, solving programming problems and also i am interested in game development.
+</p>
+  
 </ul>
