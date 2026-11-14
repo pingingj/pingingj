@@ -18,6 +18,7 @@
   <li> 🎮<b>Cub3D optimization</b> – Optimizing the menu</li>
 </ul>
 <h2>42 projects</h2>
+<div style="display: flex; align-items: center; justify-content: center; gap: 25px;">
 <table align="left">
   <tr>
     <th>Projects</th>
@@ -76,3 +77,5 @@
     <td>C library</td>
   </tr>
 </table>
+<img src="cat-jump.gif">
+</div>
