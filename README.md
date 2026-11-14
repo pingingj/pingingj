@@ -12,17 +12,15 @@
 <ul>
 <p align="middle">
   Hellooo my name is Daniel, i'm currently studying software development at 42 Lisbon. :)<br>
-  I enjoy building projects, solving programming problems and also i am interested in game development.
+  I enjoy building projects, problem solving and I am interested in low-level programming and game development.
 </p>
 </ul>
 <h2>Current work</h2>
 <ul>
   <li> 🐋<b>Inception</b> – Learning about docker containers<br>
   <li> 🎮<b>Cub3D optimization</b> – Optimizing the menu</li>
-  <li> 📖<b>README</b> – This readme lol</li>
 </ul>
 <h2>42 projects</h2>
-My projects at 42
 <table align="center">
   <tr>
     <th>Projects</th>
@@ -34,11 +32,11 @@ My projects at 42
   </tr>
   <tr>
     <td><b><a href="https://github.com/pingingj/ft_irc.git">ft_irc</a></b></td>
-    <td>TCP/IP sockets, a basic internet relay chat</td>
+    <td>TCP/IP sockets, A basic internet relay chat</td>
   </tr>
  <tr>
     <td><b><a href="https://github.com/pingingj/cpps.git">C++ Modules 0-9</a></b></td>
-    <td>Learning C++</td>
+    <td>Learning C++, Object oriented programming</td>
   </tr>
  <tr>
     <td><b><a href="https://github.com/pingingj/cub3d.git">CUB3D</a></b></td>
