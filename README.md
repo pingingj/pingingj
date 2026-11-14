@@ -3,15 +3,11 @@
   Welcome to my profile
   <img src="200w.gif" alt="Penguin" width="100" height="100" align="absmiddle">
 </h1>
-<p align="center">
-  <img src="banner.gif" alt="Penguins" width="800" height="800" align="middle">
-</p>
-<ul>
-<p>
-  <h4>Hellooo my name is Daniel, I'm currently studying software development at 42 Lisbon. :)<br>
+
+<p align="left">
+  <h3 align="left">Hellooo my name is Daniel, I'm currently studying software development at 42 Lisbon. :)<br>
   I enjoy building projects, problem solving and I am interested in low-level programming and game development.</h3>
 </p>
-</ul>
 <h2>Current work</h2>
 <ul>
   <li> 🐋<b>Inception</b> – Learning about docker containers<br>
