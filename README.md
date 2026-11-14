@@ -7,8 +7,8 @@
   <img src="banner.gif" alt="Penguins" width="800" height="800" align="middle">
 </p>
 <ul>
-<p align="middle">
-  <h3 align="center">Hellooo my name is Daniel, I'm currently studying software development at 42 Lisbon. :)<br>
+<p>
+  <h4>Hellooo my name is Daniel, I'm currently studying software development at 42 Lisbon. :)<br>
   I enjoy building projects, problem solving and I am interested in low-level programming and game development.</h3>
 </p>
 </ul>
